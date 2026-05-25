@@ -1,0 +1,6 @@
+{
+  "name": "Show Salon Experience",
+  "description": "Premium hair styling and digital perm in Epping, NSW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
